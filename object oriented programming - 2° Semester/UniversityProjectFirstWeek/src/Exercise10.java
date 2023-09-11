@@ -17,7 +17,7 @@ public class Exercise10 {
             wordGuessed.append("_");
         }
 
-        System.out.println("Welcome to the mato!");
+        System.out.println("Welcome to Hangman Game!");
         System.out.println("Try to guess the word!");
 
         while (tries > 0) {
